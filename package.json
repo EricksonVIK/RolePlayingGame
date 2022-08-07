@@ -1,0 +1,26 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "role playing game for class",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EricksonVIK/RolePlayingGame.git"
+  },
+  "keywords": [
+    "oop",
+    "ttd"
+  ],
+  "author": "ericksonvik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EricksonVIK/RolePlayingGame/issues"
+  },
+  "homepage": "https://github.com/EricksonVIK/RolePlayingGame#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
